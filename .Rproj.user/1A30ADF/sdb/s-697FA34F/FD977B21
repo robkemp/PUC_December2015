@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1449612832816.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FD977B21",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "gy6mpyu5us",
+        "caption" : "pph_co",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=pph_co&cache_key=gy6mpyu5us",
+        "displayedObservations" : "103",
+        "environment" : "",
+        "object" : "pph_co",
+        "totalObservations" : "103",
+        "variables" : "10"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1449613401697.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D438DEEF",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "rrtqb6fcpc",
+        "caption" : "hh_county",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=hh_county&cache_key=rrtqb6fcpc",
+        "displayedObservations" : 2624,
+        "environment" : "",
+        "object" : "hh_county",
+        "totalObservations" : 2624,
+        "variables" : 3
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
