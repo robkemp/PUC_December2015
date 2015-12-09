@@ -58,11 +58,11 @@ codemog_pal=c(rgb(31,73,125, max=255),
 
 p2=hh_age%>%
   ggplot(aes(x=year, y=share, color=as.factor(age_cat)))+
-  geom_line(size=1.25)+
-  geom_point(size=2.25)+
+  geom_line(size=1.1)+
+  geom_point(size=2.5)+
   scale_y_continuous(labels=percent)+
   scale_colour_manual(name="",values=codemog_pal)+
-  theme_codemog(base_size = 15)+
+  theme_codemog(base_size = 17)+
   labs(x="Year", y="Share of Households", title= "Colorado Household Projections by Age\nSource: State Demography Office")
 p2
 
